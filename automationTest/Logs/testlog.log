@@ -1,0 +1,16 @@
+[2022-05-23 01:56:54,998] - Amazon_Automation_Test - INFO - Configuration file is loaded.
+[2022-05-23 01:56:59,683] - Amazon_Automation_Test - INFO - Chrome driver is selected.
+[2022-05-23 01:57:02,861] - Amazon_Automation_Test - INFO - Browser launched.
+[2022-05-23 01:57:03,957] - Amazon_Automation_Test - INFO - Window Maximized.
+[2022-05-23 01:57:04,441] - Amazon_Automation_Test - INFO - All cookies deleted.
+[2022-05-23 01:57:05,875] - Amazon_Automation_Test - INFO - Launch the browser.
+[2022-05-23 01:57:08,020] - Amazon_Automation_Test - INFO - HamBurger Menu clicked.
+[2022-05-23 01:57:11,204] - Amazon_Automation_Test - INFO - Moved to electronics.
+[2022-05-23 01:57:19,683] - Amazon_Automation_Test - INFO - Clicked on television.
+[2022-05-23 01:57:25,271] - Amazon_Automation_Test - INFO - Brand checkbox checked.
+[2022-05-23 01:57:30,769] - Amazon_Automation_Test - INFO - Sort by price high to low.
+[2022-05-23 01:57:32,404] - Amazon_Automation_Test - INFO - Second highly product clicked.
+[2022-05-23 01:57:32,984] - Amazon_Automation_Test - INFO - Window switched to child.
+[2022-05-23 01:57:38,941] - Amazon_Automation_Test - INFO - About this item
+[2022-05-23 01:57:38,941] - Amazon_Automation_Test - INFO - Test Case Passed.
+[2022-05-23 01:57:39,492] - Amazon_Automation_Test - INFO - Driver instance quited.
